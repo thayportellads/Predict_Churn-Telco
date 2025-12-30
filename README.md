@@ -1,7 +1,3 @@
-Perfeito! Segue o README atualizado incluindo informações sobre os modelos utilizados, validação cruzada e otimização de hiperparâmetros:
-
----
-
 # Predict_Churn-Telco
 
 ## Índice
