@@ -6,6 +6,7 @@
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Modelos e Validação](#modelos-e-validação)
+- [Resultados](#resultado)
 - [Conclusão](#conclusão)
 
 ## Conjunto de Dados
