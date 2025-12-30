@@ -37,9 +37,18 @@ Os seguintes modelos de Machine Learning foram aplicados utilizando busca por hi
 
 A otimização foi realizada através de técnicas como Grid Search (busca em grade), com o objetivo de maximizar os principais indicadores de desempenho, especialmente a métrica AUC-ROC, relevante na avaliação de modelos de churn.
 
+## Resultados
+Comparação da Matrix de Confusão
+<img width="1484" height="1483" alt="image" src="https://github.com/user-attachments/assets/01113733-c37e-4d4f-898c-cd7d3a806aef" />
+
+Comparação da Acurácia para os três modelos:
+<img width="1184" height="584" alt="image" src="https://github.com/user-attachments/assets/3b973895-4417-451b-b0fc-ffa0032a7823" />
+
+Comparação da Curva AUC:
+<img width="868" height="710" alt="image" src="https://github.com/user-attachments/assets/d0fe53b4-2177-4361-bd2a-facd6474a33b" />
+
+
 ## Conclusão
 Foram comparados diferentes modelos de Machine Learning, validados com rigor estatístico, permitindo identificar a abordagem mais eficiente para prever e reduzir o churn de clientes de uma empresa de telecomunicações.
 
 ---
-
-Se desejar adicionar instruções de execução, dependências, exemplos de uso ou outro tópico, posso complementar.
